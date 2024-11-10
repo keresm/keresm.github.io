@@ -10,7 +10,8 @@
 <template>
     <div class="Post text-center container mx-auto">
         <h1 class="text-slate-900 text-3xl font-bold mb-4"> {{ post.title }}</h1>
-        <p class="text-md text-slate-300"> {{post.date}}</p>
-        <p class="text-xl text-slate-500"> {{post.text}}</p>
+        <p class="text-md text-slate-300"> {{post.date}} </p>
+        <p class="text-md text-slate-600 mb-4"> {{post.description}} </p>
+        <p class="text-xl text-slate-500 "> {{post.text}}</p>
     </div>
 </template>
