@@ -1,1 +1,0 @@
-import{d as t}from"./index-C9S0WUst.js";const s=t({posts:[{id:1,title:"Мой первый пост",description:"Простой блог-сайт на на vue+tailwindcss",date:"04.10.2024",text:"Дарова! Супер простой пошаговый гайд по тому как я сделала такой блог. На самом деле все взяла с видео на youtube. 1. Создаем проект vue 2. "}]});export{s};
