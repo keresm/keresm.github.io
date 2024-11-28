@@ -5,6 +5,7 @@ import article1 from './articles/article-1'
 const store = reactive ({
     posts:[
         article1
+        
         // {
         //     id: 1,
         //     title: 'Мой первый пост',
