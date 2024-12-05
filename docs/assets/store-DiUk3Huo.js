@@ -1,0 +1,1 @@
+import{d as t}from"./index-DAGmJs6w.js";const e={id:1,title:"Hello World!",description:"Простой блог-сайт на на vue+tailwindcss",date:"16.11.2024",text:" # Заголовок  или еще текст. ## тут еще! "},o=t({posts:[e]});export{o as s};
